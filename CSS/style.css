@@ -35,6 +35,9 @@ margin: 5px;
         margin: 5px;
         
  }
+ .btn_3:active {
+    color: green;
+ }
 
  div.test {
     background-color: lightcyan;
@@ -50,5 +53,16 @@ margin: 5px;
     flex-direction: column;
     align-items: center;
 
+ }
 
+ a {
+text-decoration: none;
+}
+
+ a.clicklink:hover {
+    color: red;
+
+ }
+ a.clicklink:visited {
+    color:aqua;
  }
