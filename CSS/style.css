@@ -42,3 +42,11 @@ margin: 5px;
 
 
  }
+ div.next {
+    background-color: lightcoral;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+ }
