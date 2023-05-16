@@ -1,3 +1,4 @@
 <?php
-echo 'My first code in PHP!'
+echo $html = "Website project";
+//Just trying some knowledges in PHP language.
 ?>
