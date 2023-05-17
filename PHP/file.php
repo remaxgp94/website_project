@@ -1,4 +1,5 @@
 <?php
-echo $html = "Website project";
+$html = "Hello web!";
+echo ($html);
 //Just trying some knowledges in PHP language.
 ?>
