@@ -12,19 +12,25 @@ const userName2 = {
     birthDate: '25.05.1999',
     managed:false
 }
+const userName3 = {
+    nickname: 'Anna',
+    regDate: '07.02.2021',
+    birthDate: '10.05.1994',
+    managed:true
+}
 function managerCheck() {
  if(userName1.managed === true) {
-    console.log('Congratulation! You are managed!')
+    console.log('Congratulation! You are managed!');
 }
 else {
-    console.log('Do not supported')
+    console.log('Do not supported');
 }
 }
 function managerCheck2() {
     if(userName2.managed === true) {
-       console.log('Congratulation! You are managed!')
+       console.log('Congratulation! You are managed!');
    }
    else {
-       console.log('Do not supported')
+       console.log('Do not supported');
    }
    }
